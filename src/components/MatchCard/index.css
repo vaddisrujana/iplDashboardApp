@@ -1,0 +1,12 @@
+.card-background {
+  background-color: #0f172a;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 25px;
+  list-style-type: none;
+  width: 30vw;
+}
+.card-image {
+  height: 5vh;
+}

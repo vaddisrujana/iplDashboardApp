@@ -1,0 +1,21 @@
+.background {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  height: 100vh;
+  padding: 20px;
+}
+.background1 {
+  display: flex;
+  justify-content: center;
+}
+.image1 {
+  height: 5vh;
+  margin-top: 28px;
+  margin-right: 10px;
+}
+.heading {
+  color: #ffffff;
+}
+.background2 {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,15 @@
+.back {
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+  border-radius: 25px;
+  color: #ffffff;
+  padding: 10px;
+}
+.back1 {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 15vh;
+}

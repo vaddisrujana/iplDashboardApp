@@ -1,0 +1,8 @@
+.background3 {
+  background-color: #13418b;
+  padding: 10px;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+}
